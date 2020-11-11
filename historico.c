@@ -195,7 +195,7 @@ int main(){
               fim = 1;
               break;
             default:
-              printf("Alternativa nao encontrada!\n\n");
+              printf("Opcao nao encontrada!\n\n");
               system("pause");
               break;
         }
